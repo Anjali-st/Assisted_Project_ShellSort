@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\bin\Debug\ConApp_ShellSort.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\bin\Debug\ConApp_ShellSort.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\bin\Debug\ConApp_ShellSort.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\obj\Debug\ConApp_ShellSort.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\obj\Debug\ConApp_ShellSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\obj\Debug\ConApp_ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\obj\Debug\ConApp_ShellSort.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_ShellSort\obj\Debug\ConApp_ShellSort.pdb
